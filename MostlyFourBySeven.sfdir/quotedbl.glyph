@@ -1,0 +1,22 @@
+StartChar: quotedbl
+Encoding: 34 34 95
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 400 300<0 100 200 300>
+VStem: 0 100<400 700> 200 100<400 700>
+LayerCount: 2
+Fore
+SplineSet
+200 700 m 25
+ 300 700 l 25
+ 300 400 l 25
+ 200 400 l 25
+ 200 700 l 25
+0 700 m 25
+ 100 700 l 25
+ 100 400 l 25
+ 0 400 l 25
+ 0 700 l 25
+EndSplineSet
+EndChar

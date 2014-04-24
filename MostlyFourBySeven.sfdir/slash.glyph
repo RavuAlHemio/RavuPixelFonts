@@ -1,0 +1,31 @@
+StartChar: slash
+Encoding: 47 47 84
+Width: 500
+VWidth: 0
+Flags: W
+AnchorPoint: "above" 200 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 25
+ 0 200 l 25
+ 0 0 l 25
+ 100 0 l 25
+ 100 200 l 25
+400 700 m 25
+ 300 700 l 25
+ 300 600 l 25
+ 400 600 l 25
+ 400 700 l 25
+100 200 m 25
+ 200 200 l 25
+ 200 400 l 25
+ 100 400 l 25
+ 100 200 l 25
+300 600 m 25
+ 200 600 l 25
+ 200 400 l 25
+ 300 400 l 25
+ 300 600 l 25
+EndSplineSet
+EndChar

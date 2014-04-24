@@ -1,0 +1,11 @@
+StartChar: z
+Encoding: 122 122 56
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 0 100<100 400> 200 100<100 200> 600 100<0 300>
+VStem: 0 100<100 200> 100 100<200 300> 200 100<300 500> 300 100<500 600>
+LayerCount: 2
+Fore
+Refer: 31 90 N 1 0 0 1 0 0 2
+EndChar

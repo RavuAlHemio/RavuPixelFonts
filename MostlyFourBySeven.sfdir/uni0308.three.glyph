@@ -1,0 +1,33 @@
+StartChar: uni0308.three
+Encoding: 65539 -1 68
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 800 100<0 100 200 300>
+VStem: 0 100<800 900> 200 100<800 900>
+AnchorPoint: "above" 150 800 mark 0
+LayerCount: 2
+Fore
+SplineSet
+200 900 m 25
+ 300 900 l 25
+ 300 800 l 25
+ 200 800 l 25
+ 200 900 l 25
+0 900 m 25
+ 100 900 l 25
+ 100 800 l 25
+ 0 800 l 25
+ 0 900 l 25
+200 900 m 25
+ 300 900 l 25
+ 300 800 l 25
+ 200 800 l 25
+ 200 900 l 25
+0 900 m 25
+ 100 900 l 25
+ 100 800 l 25
+ 0 800 l 25
+ 0 900 l 25
+EndSplineSet
+EndChar

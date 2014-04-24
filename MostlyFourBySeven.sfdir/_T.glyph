@@ -1,0 +1,22 @@
+StartChar: T
+Encoding: 84 84 22
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 0 21G<100 200> 0 21G<100 200> 600 100<0 100 200 300>
+VStem: 100 100<0 600>
+AnchorPoint: "above" 150 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 700 m 25xb0
+ 300 700 l 25
+ 300 600 l 25
+ 200 600 l 25
+ 200 0 l 25
+ 100 0 l 25
+ 100 600 l 25
+ 0 600 l 25
+ 0 700 l 25xb0
+EndSplineSet
+EndChar

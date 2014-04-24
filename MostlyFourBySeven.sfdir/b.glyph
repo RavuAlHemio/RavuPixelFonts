@@ -1,0 +1,12 @@
+StartChar: b
+Encoding: 98 98 33
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 0 100<100 300> 300 100<100 300> 600 100<100 300>
+VStem: 0 100<100 300 400 600> 0 300<0 100 300 400 600 700> 300 100<100 300 400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+Refer: 2 66 N 1 0 0 1 0 0 2
+EndChar

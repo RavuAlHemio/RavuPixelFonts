@@ -1,0 +1,25 @@
+StartChar: I.serifs
+Encoding: 65536 -1 11
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 0 100<0 100 200 300> 600 100<0 100 200 300>
+VStem: 0 300<0 100 600 700>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 25
+ 0 100 l 25
+ 100 100 l 25
+ 100 600 l 25
+ 0 600 l 25
+ 0 700 l 25
+ 300 700 l 25
+ 300 600 l 25
+ 200 600 l 25
+ 200 100 l 25
+ 300 100 l 25
+ 300 0 l 25
+ 0 0 l 25
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: grave
+Encoding: 96 96 112
+Width: 300
+VWidth: 0
+Flags: W
+HStem: 500 100<100 200> 600 100<0 100>
+VStem: 0 100<600 700> 100 100<500 600>
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 25xa0
+ 200 600 l 25
+ 200 500 l 25
+ 100 500 l 25x90
+ 100 600 l 25xa0
+0 700 m 25x60
+ 100 700 l 25x60
+ 100 600 l 25xa0
+ 0 600 l 25
+ 0 700 l 25x60
+EndSplineSet
+EndChar

@@ -1,0 +1,37 @@
+StartChar: B
+Encoding: 66 66 2
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 0 100<100 300> 300 100<100 300> 600 100<100 300>
+VStem: 0 300<0 100 300 400 600 700> 0 100<100 300 400 600> 300 100<100 300 400 600>
+CounterMasks: 1 e0
+AnchorPoint: "above" 200 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+300 300 m 25xf0
+ 400 300 l 25
+ 400 100 l 25xe4
+ 300 100 l 25
+ 300 300 l 25xf0
+300 600 m 25xf0
+ 400 600 l 25
+ 400 400 l 25xe4
+ 300 400 l 25
+ 300 600 l 25xf0
+0 0 m 25xf0
+ 0 700 l 25
+ 300 700 l 25
+ 300 600 l 25xf0
+ 100 600 l 25
+ 100 400 l 25xe8
+ 300 400 l 25
+ 300 300 l 25xf0
+ 100 300 l 25
+ 100 100 l 25xe8
+ 300 100 l 25
+ 300 0 l 17
+ 0 0 l 25xf0
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: t
+Encoding: 116 116 50
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 0 21<100 200 100 200> 600 100<0 100 200 300>
+VStem: 100 100<0 600>
+LayerCount: 2
+Fore
+Refer: 22 84 N 1 0 0 1 0 0 2
+EndChar

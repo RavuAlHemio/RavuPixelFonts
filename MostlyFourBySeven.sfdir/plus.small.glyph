@@ -1,0 +1,25 @@
+StartChar: plus.small
+Encoding: 65541 -1 101
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 300 100<0 100 200 300>
+VStem: 100 100<200 300 400 500>
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 25
+ 100 300 l 25
+ 0 300 l 25
+ 0 400 l 25
+ 100 400 l 25
+ 100 500 l 25
+ 200 500 l 25
+ 200 400 l 25
+ 300 400 l 25
+ 300 300 l 25
+ 200 300 l 25
+ 200 200 l 25
+ 100 200 l 25
+EndSplineSet
+EndChar

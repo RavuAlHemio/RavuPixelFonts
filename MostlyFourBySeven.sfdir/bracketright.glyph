@@ -1,0 +1,21 @@
+StartChar: bracketright
+Encoding: 93 93 109
+Width: 300
+VWidth: 0
+Flags: W
+HStem: 0 100<0 100> 700 100<0 100>
+VStem: 0 200<0 100 700 800> 100 100<100 700>
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 9xe0
+ 0 0 l 25
+ 0 100 l 25xe0
+ 100 100 l 17
+ 100 700 l 9xd0
+ 0 700 l 25
+ 0 800 l 25
+ 200 800 l 17
+ 200 0 l 9xe0
+EndSplineSet
+EndChar

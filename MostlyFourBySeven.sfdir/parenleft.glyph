@@ -1,0 +1,27 @@
+StartChar: parenleft
+Encoding: 40 40 93
+Width: 300
+VWidth: 0
+Flags: W
+HStem: 0 100<100 200> 680 20G<0 100> 680 20G<0 100> 700 100<100 200>
+VStem: 0 100<100 700> 100 100<0 100 700 800>
+LayerCount: 2
+Fore
+SplineSet
+0 700 m 25xc8
+ 100 700 l 25
+ 100 100 l 25
+ 0 100 l 25
+ 0 700 l 25xc8
+100 100 m 25
+ 200 100 l 25
+ 200 0 l 25
+ 100 0 l 25x84
+ 100 100 l 25
+100 800 m 25x94
+ 200 800 l 25
+ 200 700 l 25x94
+ 100 700 l 25xc8
+ 100 800 l 25x94
+EndSplineSet
+EndChar

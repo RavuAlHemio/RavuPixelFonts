@@ -1,0 +1,11 @@
+StartChar: p
+Encoding: 112 112 47
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 0 21<0 100 0 100> 300 100<100 300> 600 100<100 300>
+VStem: 0 100<0 300 400 600> 0 300<300 400 600 700> 300 100<400 600>
+LayerCount: 2
+Fore
+Refer: 18 80 N 1 0 0 1 0 0 2
+EndChar

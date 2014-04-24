@@ -1,0 +1,21 @@
+StartChar: T.wide
+Encoding: 65537 -1 24
+Width: 600
+VWidth: 0
+Flags: W
+HStem: 0 21G<200 300> 0 21G<200 300> 600 100<0 200 300 500>
+VStem: 200 100<0 600>
+LayerCount: 2
+Fore
+SplineSet
+0 700 m 25xb0
+ 500 700 l 25
+ 500 600 l 25
+ 300 600 l 25
+ 300 0 l 25
+ 200 0 l 25
+ 200 600 l 25
+ 0 600 l 25
+ 0 700 l 25xb0
+EndSplineSet
+EndChar
